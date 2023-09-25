@@ -19,7 +19,7 @@ public class Main {
       
       List<Pessoa> pessoas = new ArrayList<>();
       Pessoa p1 = new Aluno ("CArlinhos Tornado", 2353632, e3);
-      Pessoa p2 = new Aluno ("Cuzao", 235342, e2);
+      Pessoa p2 = new Aluno ("João", 235342, e2);
       Pessoa p3 = new Professor ("Romualdo", 23235, e1);
       Pessoa p4 = new Professor ("Luciana Potker", 42563, e4);
       pessoas.add(p1);
